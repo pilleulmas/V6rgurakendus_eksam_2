@@ -1,0 +1,27 @@
+body {
+	margin: 0px;
+	background-color: #EBF4FE;
+}
+
+h1, h2, p {
+	margin:20px;
+	text-align:center;
+}
+
+#p2is {
+border-width: 4px 0px 8px;
+border-style:solid;
+border-color:#68ADF7;
+margin: 0px;
+}
+
+#vorm{
+	margin:auto;
+	width: 20%;	
+	margin-top:25px;
+	margin-bottom:25px;
+}
+#pilt, img{
+	width:600px;
+	margin: auto;
+}
